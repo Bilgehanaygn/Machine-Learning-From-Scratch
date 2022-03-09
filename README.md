@@ -1,4 +1,4 @@
-All of the ML models are written from scratch - no ready made libraries is used.
+All of the ML models are written from scratch - no ready made library is used.
 
 Neural Network From Scratch Explanation:
 N-layer neural network (N hidden layer), n is given as parameter to a layer generator func. 
